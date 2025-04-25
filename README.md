@@ -239,39 +239,9 @@ config = VyosConfig.from_json("config.json")
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the VyOS and networking communities! To get started:
-
-1. **Clone the Repository** (coming soon):
-   ```bash
-   git clone https://github.com/veeos/veeos-parser
-   ```
-2. **Install Dependencies**:
-   ```bash
-   pip install parsimonious networkx jinja2
-   ```
-3. **Submit Issues or Pull Requests**:
-   - Suggest new queries (e.g., topology analysis).
-   - Improve validation based on VyOS XML schemas.
-   - Add integration with tools like Ansible or SaltStack.
-
-Check the [CONTRIBUTING.md](CONTRIBUTING.md) (TBD) for guidelines.
-
----
-
-## 💬 Community
-
-- **VyOS Forum**: Share feedback and use cases at [forum.vyos.io](https://forum.vyos.io/).
-- **Reddit**: Join discussions on [r/vyos](https://www.reddit.com/r/vyos/) or [r/networking](https://www.reddit.com/r/networking/).
-- **GitHub Issues**: Report bugs or suggest features at [github.com/veeos/veeos-parser](https://github.com/veeos/veeos-parser) (TBD).
-- **Blog Posts**: Follow our blog for tutorials and updates (TBD).
-
----
-
 ## 📜 License
 
-VEEOS and `veeos-parser` are licensed under the [MIT License](LICENSE), ensuring open collaboration and adoption.
+VEEOS and `veeos-parser` are licensed under the [Apache 2.0](LICENSE), ensuring open collaboration and adoption.
 
 ---
 
